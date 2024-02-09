@@ -1,0 +1,12 @@
+[submodule "AutoGPT"]
+	path = AutoGPT
+	url = https://github.com/Significant-Gravitas/AutoGPT.git
+[submodule "DeepLake"]
+	path = DeepLake
+	url = https://github.com/activeloopai/deeplake.git
+[submodule "Gradio"]
+	path = Gradio
+	url = https://github.com/gradio-app/gradio.git
+[submodule "LangChain"]
+	path = LangChain
+	url = https://github.com/langchain-ai/langchain.git
